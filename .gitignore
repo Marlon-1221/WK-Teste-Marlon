@@ -1,0 +1,3 @@
+git add -f pedidos/
+git commit -m "Adicionando todos os arquivos de pedidos"
+git push origin main
